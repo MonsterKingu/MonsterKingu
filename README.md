@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @MonsterKingu
-- 👀 I’m interested in Mobile programming & Games
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on no idea yet
+- 👀 I’m interested in Mobile programming
+- 🌱 I’m currently learning
 - 📫 How to reach me: Planet Earth
-- 😄 Pronouns: What?
 - ⚡ Fun fact: I can fly
 
 <!---
